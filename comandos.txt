@@ -1,2 +1,5 @@
 rodar migrations do sql
   npx knex migrate:latest --knexfile knexfile.ts migrate:latest
+
+link
+  https://nextlevelweek.com/aulas/booster/2/edicao/1

@@ -10,3 +10,18 @@ export async function seed(knex: Knex) {
     { title: "Oleo de Cozinha", image: "oleo.svg" }
   ]);
 }
+
+// {
+//   "name": "Mercado varejo",
+//   "email": "contato@varejo.com.br",
+//   "whatsapp": "3242342342342",
+//   "latitude": -46.81243213,
+//   "longitude": -35.19238112,
+//   "city": "Rio de Janeiro",
+//   "uf": "RJ",
+//   "items": [
+//     1,
+//     2,
+//     6
+//   ]
+// }
